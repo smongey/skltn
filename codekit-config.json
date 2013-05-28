@@ -47,15 +47,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 32768
     },
-    "\/less.kit" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/less.kit",
-      "outputAbbreviatedPath" : "\/less.html",
-      "fileType" : 65536
-    },
     "\/sass\/screen.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -67,6 +58,15 @@
       "outputAbbreviatedPath" : "\/build\/css\/screen.css",
       "fileType" : 4,
       "debugStyle" : 0
+    },
+    "\/less.kit" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/less.kit",
+      "outputAbbreviatedPath" : "\/less.html",
+      "fileType" : 65536
     },
     "\/compass.kit" : {
       "ignoreWasSetByUser" : 0,
@@ -116,18 +116,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/sass\/print.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/sass\/print.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/build\/css\/print.css",
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
     "\/style.less" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -139,6 +127,18 @@
       "outputAbbreviatedPath" : "\/build\/css\/style.css",
       "strictImports" : 0,
       "fileType" : 1,
+      "debugStyle" : 0
+    },
+    "\/sass\/print.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/sass\/print.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/build\/css\/print.css",
+      "fileType" : 4,
       "debugStyle" : 0
     }
   },
